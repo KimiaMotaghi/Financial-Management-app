@@ -1,0 +1,5 @@
+com.example.personalfinancetracker.test.app-updated_navigation_xml-0 H:\android\Personal\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.personalfinancetracker.test.app-packageDebugAndroidTestResources-1 H:\android\Personal\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.personalfinancetracker.test.app-packageDebugAndroidTestResources-2 H:\android\Personal\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.personalfinancetracker.test.app-debugAndroidTest-3 H:\android\Personal\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\fadak\.gradle

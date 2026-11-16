@@ -1,0 +1,8 @@
+com.example.personalfinancetracker.app-pngs-0 H:\android\Personal\app\build\generated\res\pngs\debug
+com.example.personalfinancetracker.app-updated_navigation_xml-1 H:\android\Personal\app\build\generated\updated_navigation_xml\debug
+com.example.personalfinancetracker.app-packageDebugResources-2 H:\android\Personal\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.personalfinancetracker.app-packageDebugResources-3 H:\android\Personal\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.personalfinancetracker.app-debug-4 H:\android\Personal\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.personalfinancetracker.app-debug-5 H:\android\Personal\app\src\debug\res
+com.example.personalfinancetracker.app-main-6 H:\android\Personal\app\src\main\res
+gradleHome-0 C:\Users\fadak\.gradle
